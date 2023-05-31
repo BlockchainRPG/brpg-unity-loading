@@ -5,7 +5,7 @@ public class LoadingAnimation : MonoBehaviour
 {
     public static LoadingAnimation instance;
 
-    public string scenePath = "Assets/Repositories/brpg-unity-loading/Assets/ResourceData/LoadingAnimation.unity";
+    public string scenePath = "Assets/PackageData/LoadingAnimation.unity";
 
     void Awake()
     {
